@@ -1,5 +1,5 @@
 Sources of the Libre Music Challenge introductory theme.  The result
-can be found under the [export folder of the Ardour session](ardour-session /export).
+can be found under the [export folder](lmc-introductory-theme/export).
 
 The command to produce the speech is
 
